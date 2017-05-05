@@ -1,0 +1,1 @@
+D:\DEV\php\laravel\laravel4\larapus\app/views/authors/edit.blade.php
