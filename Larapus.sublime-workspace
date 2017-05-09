@@ -1,0 +1,1054 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"asset",
+				"asset"
+			],
+			[
+				"wi",
+				"with	(HomeController.php)"
+			],
+			[
+				"edi",
+				"edit"
+			],
+			[
+				"mod",
+				"models	(composer.json)"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"ins",
+				"insert"
+			],
+			[
+				"tabl",
+				"table"
+			],
+			[
+				"ad",
+				"admin"
+			],
+			[
+				"au",
+				"auth"
+			],
+			[
+				"Se",
+				"Session::has	Determin if an Item Exists in the Session"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"layouts",
+				"layouts.partials.alert	(guest.blade.php)"
+			],
+			[
+				"uk-c",
+				"uk-close 	UIkit class"
+			],
+			[
+				"uk-alert",
+				"uk-alert-close"
+			],
+			[
+				"uk-aler",
+				"uk-alert-danger 	UIkit class"
+			],
+			[
+				"suc",
+				"successMessage"
+			],
+			[
+				"uk-al",
+				"uk-alert 	UIkit class"
+			],
+			[
+				"log",
+				"logout	(HomeController.php)"
+			],
+			[
+				"H",
+				"HomeController@dashboard"
+			],
+			[
+				"guest",
+				"guest.login	(Guestcontroller.php)"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"Inpu",
+				"Input::get	Retrieve an Input value"
+			],
+			[
+				"uk-text-c",
+				"uk-text-center 	UIkit class"
+			],
+			[
+				"Sentry",
+				"SentrySeeder	(SentrySeeder.php)"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"Ca",
+				"Cartalyst\\Sentry\\SentryServiceProvider"
+			],
+			[
+				"Application_Model_Ka",
+				"Application_Model_Karyawan2Mapper	(Karyawan2Mapper.php)"
+			],
+			[
+				"A",
+				"Application_Model_Karyawan2Mapper"
+			],
+			[
+				"table",
+				"table	Tag"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"TABLE",
+				"table-responsive 	Bootstrap 3 Class"
+			],
+			[
+				"TAB",
+				"table-hover 	Bootstrap 3 Class"
+			],
+			[
+				"t",
+				"tr	<tr>"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"d",
+				"DOCTYPE〔doctype〕"
+			],
+			[
+				"tab",
+				"table 	Bootstrap 3 Class"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"conta",
+				"container-fluid 	Bootstrap 3 Class"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"cus",
+				"cust_id"
+			],
+			[
+				"cust_",
+				"cust_name"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"ech",
+				"echo	echo \"…\""
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"file",
+				"filename2"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"$route",
+				"$routeParams	AngularJS"
+			],
+			[
+				"phone",
+				"phones"
+			],
+			[
+				"get",
+				"get	AngularJS"
+			],
+			[
+				"pho",
+				"phonecatControllers"
+			],
+			[
+				"ph",
+				"phoneId"
+			],
+			[
+				"$rout",
+				"$routeParams	AngularJS"
+			],
+			[
+				"$r",
+				"$routeParams	AngularJS(DI)"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS(DI)"
+			],
+			[
+				"mo",
+				"module	AngularJS"
+			],
+			[
+				"ng-v",
+				"ng-view	AngularJS"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"$db",
+				"$dbdb"
+			],
+			[
+				"ke",
+				"kendaraan"
+			],
+			[
+				"db",
+				"db2"
+			],
+			[
+				"ken",
+				"kendkeluar"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"g",
+				"get	AngularJS"
+			],
+			[
+				"mobil",
+				"mobil1"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"$s",
+				"$scope	AngularJS"
+			],
+			[
+				"ng-c",
+				"ng-controller	AngularJS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Larapus.sublime-project",
+			"settings":
+			{
+				"buffer_size": 172,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes.php",
+			"settings":
+			{
+				"buffer_size": 575,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"composer",
+				"Composer: Add Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 460.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"install packages emmet",
+			"install package emmet",
+			"install package",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/DEV/php/laravel/laravel4/larapus"
+	],
+	"file_history":
+	[
+		"/D/DEV/php/laravel/laravel4/larapus/app/controllers/GuestController.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/views/layouts/guest.blade.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/views/layouts/partials/alert.blade.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/views/layouts/master.blade.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/database/seeds/SentrySeeder.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/database/seeds/DatabaseSeeder.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/database/seeds/AuthorsTableSeeder.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/routes.php",
+		"/D/DEV/php/laravel/laravel4/larapus/composer.json",
+		"/D/DEV/php/laravel/laravel4/larapus/app/config/database.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/views/authors/index.blade.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/controllers/AuthorsController.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/config/app.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/filters.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/controllers/HomeController.php",
+		"/D/DEV/php/laravel/laravel4/larapus/app/views/guest/login.blade.php",
+		"/C/Users/wahyu/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/D/DEV/php/laravel/laravel5/istw3/resources/views/welcome.blade.php",
+		"/C/Users/wahyu/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/D/DEV/php/laravel/laravel4/trial3/testlaravel/app/database/seeds/DepartemensTableSeeder.php",
+		"/D/DEV/php/laravel/laravel4/my/cats/app/routes.php",
+		"/D/DEV/php/laravel/laravel4/my/cats/app/views/about.php",
+		"/D/DEV/php/laravel/laravel4/my/cats/app/config/database.php",
+		"/D/DEV/php/laravel/9781783287031_code(1)/Chapter 04/app/routes.php",
+		"/D/DEV/php/laravel/9781783287031_code(1)/Chapter 03/app/routes.php",
+		"/D/DEV/php/laravel/9781783287031_code(1)/Chapter 04/app/views/master.blade.php",
+		"/D/DEV/php/laravel/9781783287031_code(1)/Chapter 04/app/views/login.blade.php",
+		"/Z/S Dok Sistem ISO Updated (04 Mei 2015)/06 Panduan/Pan.E.13 Kalibrasi dan Pengoperasian Sigma/Pan E 13 Kalibrasi dan Pengoperasian Sigma KADALUARSA.pdf",
+		"/D/DEV/php/ZF/zf1-doctrine2/application/Bootstrap.php",
+		"/D/DEV/php/ZF/trial/zf1/istw/application/controllers/Karyawan2Controller.php",
+		"/D/DEV/php/ZF/trial/zf1/istw/application/views/scripts/karyawan2/index.phtml",
+		"/D/My documents/Downloads/Telegram Desktop/Bootstrap.php",
+		"/D/DEV/php/Bootstrap-Zend-Framework/application/Bootstrap.php",
+		"/D/DEV/php/ZF/trial/zf1/istw/application/models/KaryawanMapper.php",
+		"/D/DEV/php/ZF/trial/zf1/istw/application/forms/Karyawan.php",
+		"/D/DEV/php/ZF/trial/zf1/istw/application/views/scripts/karyawan/index.phtml",
+		"/D/DEV/php/ZF/trial/zf1/istw/application/Bootstrap.php",
+		"/D/DEV/php/zf1/istw/application/Bootstrap.php",
+		"/D/DEV/php/ZF/trial/zf1/zf-auth-tutorial/application/Bootstrap.php",
+		"/D/DEV/php/ZF/trial/zf1/quickstart/application/views/index",
+		"/D/DEV/php/ZF/trial/zf1/quickstart/application/views/index/index.phtml",
+		"/D/DEV/php/ZF/trial/zf1/quickstart/application/models/GuestbookMapper.php",
+		"/D/DEV/php/ZF/trial/ZendSkeletonApplication/composer.json",
+		"/D/DEV/php/ZF/trial/4/module/Album/config/module.config.php",
+		"/D/DEV/php/ZF/trial/4/composer.json",
+		"/D/DEV/php/ZF/trial/4/config/modules.config.php",
+		"/D/DEV/php/ZF/trial/4/module/Album/src/Module.php",
+		"/D/DEV/php/ZF/trial/4/module/Album/view/album/album/index.phtml",
+		"/D/DEV/php/ZF/trial/4/module/Album/src/Controller/AlbumController.php",
+		"/D/DEV/php/ZF/trial/4/config/autoload/global.php",
+		"/D/DEV/php/ZF/trial/4/module/Album/src/Model/AlbumTable.php",
+		"/D/DEV/php/ZF/trial/4/module/Album/src/Model/Album.php",
+		"/D/DEV/php/ZF/trial/4/data/load_db.php",
+		"/D/DEV/php/ZF/trial/4/data/schema.sql",
+		"/D/DEV/php/ZF/trial/1/config/modules.config.php",
+		"/D/DEV/php/ZF/trial/1/module/Album/config/module.config.php",
+		"/D/DEV/php/ZF/trial/1/public/index.php",
+		"/D/DEV/php/ZF/trial/1/module/Album/src/Controller/AlbumController.php",
+		"/D/DEV/php/ZF/trial/1/module/Album/view/album/album/index.phtml",
+		"/D/DEV/php/ZF/trial/1/module/Album/src/Module.php",
+		"/D/DEV/php/ZF/trial/1/config/autoload/global.php",
+		"/D/DEV/php/ZF/trial/1/composer.json",
+		"/D/DEV/php/ZF/trial/1/module/Album/src/Model/AlbumTable.php",
+		"/D/DEV/php/ZF/trial/1/module/Album/src/Model/Album.php",
+		"/D/DEV/php/ZF/trial/1/data/load_db.php",
+		"/D/DEV/php/ZF/trial/1/data/schema.sql",
+		"/D/My documents/PEMBAGIAN%20TIM%20PENERAPAN%20SISTEM.htm",
+		"/D/ploglam/wamp3/www/Trial/LaporanKalibrasi/index.php",
+		"/Z/S Dok Sistem ISO Updated (04 Mei 2015)/PROJECT DOCUMENT HTML/LAIN-LAIN/PEMBAGIAN TIM PENERAPAN SISTEM.htm",
+		"/Z/S Dok Sistem ISO Updated (04 Mei 2015)/PROJECT DOCUMENT HTML/LAIN-LAIN/Daftar Masa Simpan - for merge.htm",
+		"/C/Users/wahyu/AppData/Local/Microsoft/Windows/INetCache/WebTempDir/Daftar Masa Simpan - for merge.htm",
+		"/D/ploglam/wamp3/www/zfdoctr/index.php",
+		"/O/zf1/zfdoctrine/public/index.php",
+		"/O/zf1/zfdoctrine/library/Zend/Loader/Autoloader.php",
+		"/D/ploglam/wamp3/www/zf1/tes2/index.php",
+		"/O/zf1/zfdoctrine/php2.php",
+		"/D/ploglam/wamp3/www/zf1/application/configs/application.ini",
+		"/O/zf1/zfdoctrine/application/Bootstrap.php",
+		"/O/zf1/zfdoctrine/application/configs/schema/new.yml",
+		"/D/My documents/Downloads/Telegram Desktop/MobileController.php",
+		"/O/zf1/test1/application/models/GuestbookMapper.php",
+		"/O/zf1/test1/application/configs/application.ini",
+		"/D/My documents/Downloads/Telegram Desktop/Alat.php",
+		"/O/zf1/test1/application/models/Guestbook.php",
+		"/O/zf1/test1/application/controllers/GuestbookController.php",
+		"/O/zf1/test1/application/views/scripts/guestbook/index.phtml",
+		"/O/zf1/test1/scripts/schema.sqlite.sql",
+		"/O/zf1/test1/scripts/data.sqlite.sql",
+		"/O/zf1/test1/scripts/load.sqlite.php",
+		"/O/zf1/test1/application/Bootstrap.php",
+		"/O/zf1/test1/application/layouts/scripts/layout.phtml",
+		"/D/ploglam/wamp3/www/zf1/application/Bootstrap_masIPAN",
+		"/D/ploglam/wamp3/www/zf1/application/configs/application_masipan.ini",
+		"/D/ploglam/wamp3/www/zf1/application/configs/application_asli.ini",
+		"/D/ploglam/wamp3/www/zf1/application/Bootstrap.php",
+		"/D/ploglam/wamp3/www/zf1/application/layouts/scripts/layout.phtml",
+		"/D/ploglam/wamp3/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+		"/D/ploglam/wamp3/bin/apache/apache2.4.23/bin/php.ini",
+		"/O/ZendSkeletonApplication/module/Users/Module.php",
+		"/O/ZendSkeletonApplication/module/Users/Controller/IndexController.php",
+		"/O/ZendSkeletonApplication/module/Users/view/users/index/index.phtml",
+		"/O/ZendSkeletonApplication/module/Users/view/users/index/login.phtml",
+		"/O/ZendSkeletonApplication/module/Users/view/users/index/new-user.phtml",
+		"/D/ploglam/wamp3/www/zf2/module/customer/Module.php",
+		"/D/ploglam/wamp3/www/zf2/module/customer/view/customer/customer/index.phtml",
+		"/D/ploglam/wamp3/www/zf2/module/customer/view/customer/customer/edit.phtml",
+		"/D/ploglam/wamp3/www/zf2/module/customer/view/customer/customer/delete.phtml",
+		"/D/ploglam/wamp3/www/zf2/module/Application/view/layout/layout.phtml",
+		"/D/ploglam/wamp3/www/zf2/module/customer/view/customer/customer/add.phtml",
+		"/D/ploglam/wamp3/www/zf2/module/customer/src/customer/Model/customer.php",
+		"/D/ploglam/wamp3/www/zf2/module/customer/src/customer/Form/customerForm.php",
+		"/D/ploglam/wamp3/www/zf2/module/customer/config/module.config.php",
+		"/D/ploglam/wamp3/www/zf2/module/customer/src/customer/Controller/customerController.php",
+		"/D/ploglam/wamp3/www/Trial/ListImage/index.php",
+		"/D/ploglam/wamp3/www/zf2/config/application.config.php",
+		"/D/ploglam/wamp3/www/Trial/CS/index.php",
+		"/D/ploglam/wamp3/www/Trial/ListImage/index5.php",
+		"/D/ploglam/wamp3/www/Trial/ListImage/index3.php",
+		"/D/ploglam/wamp3/www/Trial/ListImage/index4.php",
+		"/D/ploglam/wamp3/www/Trial/ListImage/index2.php",
+		"/D/My documents/AllItems.aspx",
+		"/D/ploglam/wamp3/www/Trial/svg/map-key-test-1.svg",
+		"/D/ploglam/wamp3/www/Trial/svg/my.html",
+		"/D/ploglam/wamp3/www/Trial/svg/my.svg",
+		"/D/ploglam/wamp3/www/zf2/vendor/autoload.php",
+		"/D/ploglam/wamp3/www/zf2/module/Blog/config/module.config.php",
+		"/D/ploglam/wamp3/www/zf2/module/Blog/Controller/ListController.php",
+		"/D/ploglam/wamp3/www/zf2/module/Blog/Module.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\DEV\\php\\ZF\\trial\\zf1\\istw",
+			"D:\\ploglam\\wamp3\\www\\teszfdoctr",
+			"O:\\zf1\\zfdoctrine",
+			"D:\\ploglam\\wamp3\\www\\zf2",
+			"D:\\ploglam\\wamp\\www\\php"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@",
+			"proxy",
+			"constr",
+			"gues",
+			"guest",
+			"comment",
+			"db",
+			"segmen",
+			">\n",
+			"pemba",
+			"width",
+			"height:10.0mm",
+			"height:70.65pt",
+			"SISTEM",
+			"height:42.75pt;",
+			"height:",
+			"height:56.2pt",
+			"width=\"140",
+			"width:105.1pt;",
+			"width:105.1pt",
+			"width",
+			"width:105.05pt",
+			"pembagia",
+			"include_pa",
+			"Core.php",
+			"Doctrine\\Core.php",
+			"class Zend_Loader",
+			"Zend_Loader",
+			"usr",
+			"=\n",
+			"include_p",
+			"include",
+			"autoload",
+			"url",
+			"home",
+			"id",
+			"title",
+			"id",
+			"Album",
+			"12401",
+			"\"\";",
+			"visib",
+			"}",
+			"index",
+			"user",
+			"cit",
+			"tbl",
+			"inde",
+			"fixed",
+			"bootstrap",
+			"boot",
+			"db2",
+			"kendk"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"customer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Larapus.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										165,
+										166
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										107,
+										108
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"function_name_status_row": 0,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/routes.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								575,
+								575
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"function_name_status_row": 17,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.composer":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "Larapus.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fil",
+				"app\\filters.php"
+			],
+			[
+				"ro",
+				"app\\routes.php"
+			],
+			[
+				"home",
+				"app\\controllers\\HomeController.php"
+			],
+			[
+				"master",
+				"app\\views\\layouts\\master.blade.php"
+			],
+			[
+				"rou",
+				"app\\routes.php"
+			],
+			[
+				"guest.ba",
+				"app\\views\\layouts\\guest.blade.php"
+			],
+			[
+				"guest",
+				"app\\controllers\\GuestController.php"
+			],
+			[
+				"r",
+				"app\\routes.php"
+			],
+			[
+				"gues",
+				"app\\controllers\\Guestcontroller.php"
+			],
+			[
+				"databa",
+				"app\\config\\database.php"
+			],
+			[
+				"inde",
+				"app\\views\\authors\\index.blade.php"
+			],
+			[
+				"index.bla",
+				"app\\views\\authors\\index.blade.php"
+			],
+			[
+				"authors",
+				"app\\controllers\\AuthorsController.php"
+			],
+			[
+				"app",
+				"app\\config\\app.php"
+			],
+			[
+				"filt",
+				"app\\filters.php"
+			],
+			[
+				"rout",
+				"app\\routes.php"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"database",
+				"app\\database\\seeds\\DatabaseSeeder.php"
+			],
+			[
+				"route",
+				"app\\routes.php"
+			],
+			[
+				"filter",
+				"app\\filters.php"
+			],
+			[
+				"mas",
+				"app\\views\\layouts\\master.blade.php"
+			],
+			[
+				"master.",
+				"app\\views\\layouts\\master.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -61,6 +61,7 @@ Route::filter('auth.basic', function()
 {
 	return Auth::basic();
 });
+
 Route::filter('admin',function(){
 	$user=Sentry::getUser();
 	//cari grup Admin
